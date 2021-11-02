@@ -1,9 +1,4 @@
-### IAM
-
-- Policy Simulator: allows you test IAM permissions, before deploying to production.
-- Validate Policies: test policies behave in the way they were intended too.
-- Test Attached Policies: ensure users, groups, and roles have the correct permissions.
-- https://policysim.aws.amazon.com/
+### IAM
 
 - USERS, GROUPS, AND ROLES.
 
@@ -22,3 +17,19 @@
 - Always set up MFA on the root account.
 
 - Always set up a password rotation policy.
+
+---
+
+### Policy Simulator
+
+- Policy Simulator: allows you test IAM permissions, before deploying to production.
+
+- Validate Policies: test policies behave in the way they were intended too.
+
+- Test Attached Policies: ensure users, groups, and roles have the correct permissions.
+
+---
+
+### Useful Links
+
+- https://policysim.aws.amazon.com/
