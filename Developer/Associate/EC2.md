@@ -53,7 +53,7 @@ Elastic Compute Cloud -> AWS Virtual Machine
 
 ---
 
-### Instance Types
+### Instance Types
 
 - This is the hardware used by the underlying physical server
 
