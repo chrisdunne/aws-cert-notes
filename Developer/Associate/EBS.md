@@ -4,7 +4,11 @@ Elastic Block Store
 
 - Storage volumes you can attach to EC2 instances (disks, hard drives, etc)
 
-- Use the same way you would with any system disks: - run OS - run database - use as a filesystem
+- Use the same way you would with any system disks:
+
+  - run OS
+  - run database
+  - use as a filesystem
 
 - Designed for mission critical production workflows
 
